@@ -23,6 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-src/supabaseClient.js
+# Environment variable file
+src/.env
 
 
