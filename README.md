@@ -1,8 +1,8 @@
-📚 Library Management System
+# 📚 Library Management System
 A full-featured Library Management System (LMS) built using React, Supabase, and Tailwind CSS, offering a smooth user experience for both library users and administrators. It supports traditional library operations and integrates modern digital features like eBooks, audiobooks, and API-based book discovery.
 
-✨ Features
-👥 User Features
+## ✨ Features
+## 👥 User Features
 🏠 Home Page (accessible to everyone)
 
 📚 Browse all books: physical books, eBooks, audiobooks, and API-fetched titles
