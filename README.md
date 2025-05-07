@@ -1,8 +1,35 @@
-# React + Vite
+# 📚 Library Management System
+A full-featured Library Management System (LMS) built using React, Supabase, and Tailwind CSS, offering a smooth user experience for both library users and administrators. It supports traditional library operations and integrates modern digital features like eBooks, audiobooks, and API-based book discovery.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Features
+### 👥 User Features
+- 🏠 Home Page (accessible to everyone)
+- 📚 Browse all books: physical books, eBooks, audiobooks, and API-fetched titles
+- 🧠 Quiz section to test knowledge
+- 🙍‍♂️ Profile section:
+    - Update profile picture
+    - Track issued books
+    - Monitor book requests, return requests, and transaction history
+- 📖 Book issuing and return requests
+- 📨 Enquiry page (available to both registered and unregistered users)
 
-Currently, two official plugins are available:
+### 🛠️ Admin Features
+- 👤 Admin profile dashboard
+- 📊 Overview of system activity and statistics
+- 📚 Manage books: Add, edit, or delete books
+- 👥 Manage users: View user activity and transactions
+- 📬 Review user feedback and complaints
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧰 Tech Stack
+| Technology                                              | Description                                        |
+| ------------------------------------------------------- | -------------------------------------------------- |
+| [React](https://reactjs.org/)                           | Frontend framework                                 |
+| [Vite](https://vitejs.dev/)                             | Fast development server and build tool             |
+| [Tailwind CSS](https://tailwindcss.com/)                | Utility-first CSS framework                        |
+| [Supabase](https://supabase.com/)                       | Backend as a Service (Auth, DB, Storage)           |
+| [Google Books API](https://developers.google.com/books) | External API for exploring additional book content |
+
+## 🔧 Getting Started
+1. Clone the repository
+2. Setup the Frontend
+3. Configure Supabase
