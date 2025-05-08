@@ -6,7 +6,7 @@ import "../style/Style.css";
 import { FaSearch } from "react-icons/fa";
 import { motion, AnimatePresence } from "framer-motion";
 import { supabase } from "../supabaseClient";
-import Reviews from "../components/reviews";
+import Reviews from "../components/Reviews";
 import { FaTimes } from "react-icons/fa"; // For cancel symbol
 
 const Main = () => {
