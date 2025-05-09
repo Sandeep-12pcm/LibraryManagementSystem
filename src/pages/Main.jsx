@@ -251,7 +251,7 @@ const Main = () => {
           </div>
           <div className="box-books">
             <div className="book-img">
-              <img src="src/assets/6-cyber-book.webp" alt="Cybersecurity book" />
+              <img src="src/assets/6-cyber-book.jpg" alt="Cybersecurity book" />
             </div>
             <div className="book-text">
               <h3>Cybersecurity Essentials</h3>
